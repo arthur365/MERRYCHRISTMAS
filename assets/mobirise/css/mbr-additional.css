@@ -1379,10 +1379,11 @@ body {
 .cid-qDGfQizrJZ .mbr-text,
 .cid-qDGfQizrJZ .mbr-section-btn {
   color: #fd0040;
+  text-align: center;
 }
 .cid-qDGfQizrJZ .mbr-text,
 .cid-qDGfQizrJZ .mbr-section-btn B {
-  color: #ffffff;
+  color: #efefef;
 }
 .cid-qDGgBom87H {
   padding-top: 30px;
