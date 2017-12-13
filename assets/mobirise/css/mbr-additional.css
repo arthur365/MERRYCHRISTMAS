@@ -1384,27 +1384,6 @@ body {
 .cid-qDGfQizrJZ .mbr-section-btn B {
   color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-qDGfQlMNDc .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qDGfQlMNDc .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-qDGfQlMNDc .mbr-section-title {
-  text-align: center;
-}
-.cid-qDGfQlMNDc .mbr-text,
-.cid-qDGfQlMNDc .mbr-section-btn {
-  color: #fd0040;
-}
-.cid-qDGfQlMNDc .mbr-text,
-.cid-qDGfQlMNDc .mbr-section-btn B {
-  color: #ffffff;
-}
 .cid-qDGgBom87H {
   padding-top: 30px;
   padding-bottom: 30px;
